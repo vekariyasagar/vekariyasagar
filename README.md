@@ -1,4 +1,4 @@
-- 5+ years of experience in Native(Android) & Cross-platform(Flutter) application development.
+
 - Highly motivated and focused on UI Design
 - Experience with Android Studio and Visual Studio tools.
 - Experience with remote data via REST API, JSON, and GraphQL API.
